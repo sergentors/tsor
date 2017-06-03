@@ -1,5 +1,5 @@
 var answers = {
-	answer_1: 1,
+	answer_1: "21",
 	answer_2: 3,
 	// ...
 };
