@@ -1,6 +1,11 @@
 var answers = {
 	answer_1: "21",
 	answer_2: 3,
+	answer_3: "1424",
+	answer_4: "10011",
+	answer_5: 1,
+	answer_6: 3,
+	answer_7: "31",
 	// ...
 };
 
